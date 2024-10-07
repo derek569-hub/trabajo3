@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\bin\Debug\net8.0\trabajo3.exe
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\bin\Debug\net8.0\trabajo3.deps.json
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\bin\Debug\net8.0\trabajo3.runtimeconfig.json
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\bin\Debug\net8.0\trabajo3.dll
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\bin\Debug\net8.0\trabajo3.pdb
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.dll
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\refint\trabajo3.dll
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.pdb
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\trabajo3.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Desktop\trabajo3\trabajo3\obj\Debug\net8.0\ref\trabajo3.dll
